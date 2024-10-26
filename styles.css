@@ -1,0 +1,14 @@
+/* Restul codului rămâne la fel */
+
+#message {
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+#message.success {
+    color: green;
+}
+
+#message.error {
+    color: red;
+}
